@@ -1,0 +1,1 @@
+{"epg": "", "lista": "https://pastebin.com/raw/mnYwd6T9", "sucesso": verdadeiro, "validade": "16/10/2042" }
