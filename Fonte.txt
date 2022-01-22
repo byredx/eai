@@ -1,1 +1,1 @@
-{"epg": "", "lista": "https://pastebin.com/raw/mnYwd6T9", "sucesso": verdadeiro, "validade": "16/10/2042" }
+{"epg": "", "lista": "https://raw.githubusercontent.com/byredx/eai/main/EAI.txt", "sucesso": verdadeiro, "validade": "16/10/2042" }
