@@ -1,0 +1,491 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K" tvg-logo="http://painelgerenciador.com.br/icons/combate1.png" group-title="ESPORTES",COMBATE 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14353
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4K" tvg-logo="http://painelgerenciador.com.br/icons/espn1.png" group-title="ESPORTES",ESPN 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14354
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 4K" tvg-logo="http://painelgerenciador.com.br/icons/espn2.png" group-title="ESPORTES",ESPN 2 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14355
+#EXTINF:-1 tvg-id="ESPNBRASIL" tvg-name="ESPN BRASIL 4K" tvg-logo="http://painelgerenciador.com.br/icons/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14356
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA 4K" tvg-logo="http://painelgerenciador.com.br/icons/espnextra.png" group-title="ESPORTES",ESPN EXTRA 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14357
+#EXTINF:-1 tvg-id="FOXSPORTS" tvg-name="FOX SPORT 1 4K" tvg-logo="http://painelgerenciador.com.br/icons/foxsport1.png" group-title="ESPORTES",FOX SPORT 1 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14358
+#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-name="FOX SPORT 2 4K" tvg-logo="http://painelgerenciador.com.br/icons/foxsport2.png" group-title="ESPORTES",FOX SPORT 2 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14359
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORT TV 1 4K" tvg-logo="http://painelgerenciador.com.br/icons/sporttv1.png" group-title="ESPORTES",SPORT TV 1 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14360
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORT TV 2 4K" tvg-logo="http://painelgerenciador.com.br/icons/sporttv2.png" group-title="ESPORTES",SPORT TV 2 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14361
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORT TV 3 4K" tvg-logo="http://painelgerenciador.com.br/icons/sporttv3.png" group-title="ESPORTES",SPORT TV 3 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14362
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF 4K" tvg-logo="http://painelgerenciador.com.br/icons/off.png" group-title="ESPORTES",OFF 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14363
+#EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="BAND SPORT 4K" tvg-logo="http://painelgerenciador.com.br/icons/bandsports.png" group-title="ESPORTES",BAND SPORT 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14364
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 4K" tvg-logo="http://painelgerenciador.com.br/icons/dazn.png" group-title="ESPORTES",DAZN 1 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48569
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 4K" tvg-logo="http://painelgerenciador.com.br/icons/dazn.png" group-title="ESPORTES",Dazn 2 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15064
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 4K" tvg-logo="http://painelgerenciador.com.br/icons/dazn.png" group-title="ESPORTES",DAZN 3 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48570
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 4K" tvg-logo="http://painelgerenciador.com.br/icons/dazn.png" group-title="ESPORTES",DAZN 4 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48571
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4K [ PREMIERELEAGUE ]" tvg-logo="http://painelgerenciador.com.br/icons/dazn.png" group-title="ESPORTES",DAZN 4K [ PREMIERELEAGUE ]
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48572
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT ESPORTES 1 HD" tvg-logo="http://painelgerenciador.com.br/icons/argentina/tntsports.png" group-title="ESPORTES",TNT ESPORTES 1 HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15102
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 2 HD " tvg-logo="http://painelgerenciador.com.br/icons/argentina/tntsports.png" group-title="ESPORTES",TNT ESPORTES 2 HD 
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15122
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 3 HD " tvg-logo="http://painelgerenciador.com.br/icons/argentina/tntsports.png" group-title="ESPORTES",TNT ESPORTES 3 HD 
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15123
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 4 HD" tvg-logo="http://painelgerenciador.com.br/icons/argentina/tntsports.png" group-title="ESPORTES",TNT ESPORTES 4 HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15149
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 4k" tvg-logo="http://painelgerenciador.com.br/icons/conmebol.png" group-title="ESPORTES",CONMEBOL TV 3 4k
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15233
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 4k" tvg-logo="http://painelgerenciador.com.br/icons/conmebol.png" group-title="ESPORTES",CONMEBOL TV 1 4k
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15234
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-name="PREMIER CLUB 4K" tvg-logo="http://painelgerenciador.com.br/icons/premier.png" group-title="ESPORTES",PREMIER CLUB 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14365
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-name="PREMIER 2 4K" tvg-logo="http://painelgerenciador.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 2 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14366
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-name="PREMIER 3 4K" tvg-logo="http://painelgerenciador.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 3 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14367
+#EXTINF:-1 tvg-id="PREMIERE4" tvg-name="PREMIER 4 4K" tvg-logo="http://painelgerenciador.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 4 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14368
+#EXTINF:-1 tvg-id="PREMIERE5BRAZIL" tvg-name="PREMIER 5 4K" tvg-logo="http://painelgerenciador.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 5 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14369
+#EXTINF:-1 tvg-id="PREMIERE6" tvg-name="PREMIER 6 4K" tvg-logo="http://painelgerenciador.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 6 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14370
+#EXTINF:-1 tvg-id="PREMIERE7" tvg-name="PREMIER 7 4K" tvg-logo="http://painelgerenciador.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 7 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14371
+#EXTINF:-1 tvg-id="" tvg-name="All Sports TV" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/bolivia/allsportstv.png" group-title="ESPORTES",All Sports TV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15051
+#EXTINF:-1 tvg-id="BANDRJ" tvg-name="BAND SP 4K" tvg-logo="http://painelgerenciador.com.br/icons/band.png" group-title="ABERTOS",BAND SP 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14558
+#EXTINF:-1 tvg-id="BANDRJ" tvg-name="BAND HD" tvg-logo="http://painelgerenciador.com.br/icons/band.png" group-title="ABERTOS",BAND HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14967
+#EXTINF:-1 tvg-id="BANDRJ" tvg-name="BAND  SP 4K" tvg-logo="http://painelgerenciador.com.br/icons/band.png" group-title="ABERTOS",BAND  SP 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15231
+#EXTINF:-1 tvg-id="" tvg-name="BAND FHD" tvg-logo="http://painelgerenciador.com.br/icons/band.png" group-title="ABERTOS",BAND FHD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15232
+#EXTINF:-1 tvg-id="BANDRJ" tvg-name=" RBATV Band PA HD" tvg-logo="http://painelgerenciador.com.br/icons/band.png" group-title="ABERTOS", RBATV Band PA HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15002
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV!" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title="ABERTOS",REDE TV!
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48553
+#EXTINF:-1 tvg-id="REDESUPER" tvg-name="REDE SUPER HD" tvg-logo="http://painelgerenciador.com.br/icons/redesuper.png" group-title="ABERTOS",REDE SUPER HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48554
+#EXTINF:-1 tvg-id="REDEGÊNESIS" tvg-name="REDE GENESIS HD" tvg-logo="http://painelgerenciador.com.br/icons/redegenies.png" group-title="ABERTOS",REDE GENESIS HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48555
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redegospel.png" group-title="ABERTOS",REDE GOSPEL HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14983
+#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redefamilia.png" group-title="ABERTOS",REDE FAMILIA HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15008
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redevida.png" group-title="RELIGIOSOS",REDE VIDA
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15120
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV Tocantins HD" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title="ABERTOS",REDE TV Tocantins HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15024
+#EXTINF:-1 tvg-id="" tvg-name="TBO REDE BRASIL HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/tboredebrasil.png" group-title="ABERTOS",TBO REDE BRASIL HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15028
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV GAZETA HD" tvg-logo="http://painelgerenciador.com.br/icons/gazeta.png" group-title="ABERTOS",TV GAZETA HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48556
+#EXTINF:-1 tvg-id="" tvg-name="ISAT HD" tvg-logo="http://painelgerenciador.com.br/icons/isat.png" group-title="ABERTOS",ISAT HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48557
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO HD" tvg-logo="http://painelgerenciador.com.br/icons/tvdiario.png" group-title="ABERTOS",TV DIARIO HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48558
+#EXTINF:-1 tvg-id="" tvg-name="Rede Cnt" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redecnt.png" group-title="ABERTOS",Rede Cnt
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15020
+#EXTINF:-1 tvg-id="REDERECORD" tvg-name="RECORD TV" tvg-logo="http://painelgerenciador.com.br/icons/record.png" group-title="REDE RECORD",RECORD TV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48568
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K" tvg-logo="http://painelgerenciador.com.br/icons/sbt.png" group-title=" REDE SBT",SBT 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48552
+#EXTINF:-1 tvg-id="" tvg-name="SBT SCC " tvg-logo="http://painelgerenciador.com.br/icons/sbt.png" group-title=" REDE SBT",SBT SCC 
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15004
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBO NEWS 4K" tvg-logo="http://painelgerenciador.com.br/icons/globonews.png" group-title="NOTÍCIAS",GLOBO NEWS 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14562
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BAND NEWS 4K" tvg-logo="http://painelgerenciador.com.br/icons/bandnews.png" group-title="NOTÍCIAS",BAND NEWS 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14563
+#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="RECORD NEWS 4K" tvg-logo="http://painelgerenciador.com.br/icons/recordnews.png" group-title="NOTÍCIAS",RECORD NEWS 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48559
+#EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="CNN BRASIL 4K" tvg-logo="http://painelgerenciador.com.br/icons/cnnbrasil.png" group-title="NOTÍCIAS",CNN BRASIL 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48560
+#EXTINF:-1 tvg-id="CNNE" tvg-name="CNN ESPANOL HD" tvg-logo="http://painelgerenciador.com.br/icons/cnnespanol.png" group-title="NOTÍCIAS",CNN ESPANOL HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48561
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="http://painelgerenciador.com.br/icons/cnninter.png" group-title="NOTÍCIAS",CNN INTERNACIONAL 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48562
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOX NEWS 4K" tvg-logo="http://painelgerenciador.com.br/icons/foxnews.png" group-title="NOTÍCIAS",FOX NEWS 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48563
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg 4K" tvg-logo="http://painelgerenciador.com.br/icons/bloomberg.png" group-title="NOTÍCIAS",Bloomberg 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14564
+#EXTINF:-1 tvg-id="CURTA" tvg-name="Curta! 4K" tvg-logo="http://painelgerenciador.com.br/icons/curta.png" group-title="ABERTOS",Curta! 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14561
+#EXTINF:-1 tvg-id="FUTURA" tvg-name="Futura 4K" tvg-logo="http://painelgerenciador.com.br/icons/futura.png" group-title="ABERTOS",Futura 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14560
+#EXTINF:-1 tvg-id="ARTE1" tvg-name="Arte1 4K" tvg-logo="http://painelgerenciador.com.br/icons/arte1.png" group-title="ABERTOS",Arte1 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14559
+#EXTINF:-1 tvg-id="" tvg-name="CATVE HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/catve.png" group-title="ABERTOS",CATVE HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14968
+#EXTINF:-1 tvg-id="" tvg-name="CATVE 2 HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/catve2.png" group-title="ABERTOS",CATVE 2 HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14969
+#EXTINF:-1 tvg-id="" tvg-name="CATVE FM HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/catvefm.png" group-title="ABERTOS",CATVE FM HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14970
+#EXTINF:-1 tvg-id="" tvg-name="MASTER TV" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/mastertv.png" group-title="ABERTOS",MASTER TV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14971
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15065
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP 4K" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",GLOBO SP 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48530
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO RJ 4K" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",GLOBO RJ 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48531
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO GLOBO EPTV CAMPINAS HD" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",GLOBO GLOBO EPTV CAMPINAS HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48532
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RCP CURITIBA 4K" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",GLOBO RCP CURITIBA 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48533
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO NSC TV FLORIANOPOIS 4K" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",GLOBO NSC TV FLORIANOPOIS 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48534
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO TV BRASILIA 4K" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",GLOBO TV BRASILIA 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48535
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO MINAS 4K" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",GLOBO MINAS 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48536
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="INTER TV GRANDE MINAS HD" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",INTER TV GRANDE MINAS HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48537
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="EPTV SUL DE MINAS HD" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",EPTV SUL DE MINAS HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48538
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO NORDESTE 4K" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",GLOBO NORDESTE 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48539
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO RBS PORTO ALEGRE 4K" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",GLOBO RBS PORTO ALEGRE 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48540
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO TV BELEM" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",GLOBO TV BELEM
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48541
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO TV CENTRO AMERICA 4K" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",GLOBO TV CENTRO AMERICA 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48542
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO TV BAHIA 4K" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",GLOBO TV BAHIA 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48543
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="INTER TV DOS VALES HD" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",INTER TV DOS VALES HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48544
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO TV MIRANTE HD 4K" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",GLOBO TV MIRANTE HD 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48545
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO TV MORENA HD" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",GLOBO TV MORENA HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48546
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO TV VERDESMARES" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",GLOBO TV VERDESMARES
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48547
+#EXTINF:-1 tvg-id="alarabiyaalhadath.ae" tvg-name="NSC TV BLUMENAU HD" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",NSC TV BLUMENAU HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48548
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="TV GAZETA ALAGOAS HD" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",TV GAZETA ALAGOAS HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48549
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="TV SANTA CRUZ HD" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",TV SANTA CRUZ HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48550
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="TV SERGIPE HD" tvg-logo="http://painelgerenciador.com.br/icons/globo.png" group-title="REDE GLOBO",TV SERGIPE HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48551
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="Mais Globo 4K" tvg-logo="http://painelgerenciador.com.br/icons/maisglobo.png" group-title="REDE GLOBO",Mais Globo 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14557
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICK 4K" tvg-logo="http://painelgerenciador.com.br/icons/nick.png" group-title="INFANTIS",NICK 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14411
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="NICK JR 4K" tvg-logo="http://painelgerenciador.com.br/icons/nickjr.png" group-title="INFANTIS",NICK JR 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14412
+#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="DISNEY CHANNEL 4K" tvg-logo="http://painelgerenciador.com.br/icons/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14413
+#EXTINF:-1 tvg-id="DISNEYXD" tvg-name="DISNEY XD 4K" tvg-logo="http://painelgerenciador.com.br/icons/disneyxd.png" group-title="INFANTIS",DISNEY XD 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48567
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="DISNEY JR 4K" tvg-logo="http://painelgerenciador.com.br/icons/disneyjr.png" group-title="INFANTIS",DISNEY JR 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14414
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoveykids.png" group-title="INFANTIS",DISCOVERY KIDS 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14415
+#EXTINF:-1 tvg-id="NATGEOKIDS" tvg-name="NAT GEO KIDS 4K" tvg-logo="http://painelgerenciador.com.br/icons/natgeokids.png" group-title="INFANTIS",NAT GEO KIDS 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14416
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://painelgerenciador.com.br/icons/cartoonnetwork.png" group-title="INFANTIS",CARTOON NETWORK 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14417
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG 4K" tvg-logo="http://painelgerenciador.com.br/icons/boomerang.png" group-title="INFANTIS",BOOMERANG 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14418
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV 4K" tvg-logo="http://painelgerenciador.com.br/icons/babytv.png" group-title="INFANTIS",BABY TV 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14419
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB 4K" tvg-logo="http://painelgerenciador.com.br/icons/gloob.png" group-title="INFANTIS",GLOOB 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14420
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO 4K" tvg-logo="http://painelgerenciador.com.br/icons/globinho.png" group-title="INFANTIS",GLOOBINHO 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14421
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST 4K" tvg-logo="http://painelgerenciador.com.br/icons/tooncast.png" group-title="INFANTIS",TOONCAST 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14422
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT 4K" tvg-logo="http://painelgerenciador.com.br/icons/tnt.png" group-title="FILMES E SERIES",TNT 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14374
+#EXTINF:-1 tvg-id="TNTSERIES" tvg-name="TNT SERIES 4K" tvg-logo="http://painelgerenciador.com.br/icons/tntseries.png" group-title="FILMES E SERIES",TNT SERIES 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14375
+#EXTINF:-1 tvg-id="STARHITS" tvg-name="STAR HITS 4K" tvg-logo="http://painelgerenciador.com.br/icons/starhits.png" group-title="FILMES E SERIES",STAR HITS 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14377
+#EXTINF:-1 tvg-id="STARHITS2" tvg-name="STAR HITS 2 4K" tvg-logo="http://painelgerenciador.com.br/icons/starhits2.png" group-title="FILMES E SERIES",STAR HITS 2 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14378
+#EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR CHANNEL 4K" tvg-logo="http://painelgerenciador.com.br/icons/starchannel.png" group-title="FILMES E SERIES",STAR CHANNEL 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14379
+#EXTINF:-1 tvg-id="STARLIFE" tvg-name="STAR LIFE 4K" tvg-logo="http://painelgerenciador.com.br/icons/starlife.png" group-title="FILMES E SERIES",STAR LIFE 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14380
+#EXTINF:-1 tvg-id="FX" tvg-name="FX 4K" tvg-logo="http://painelgerenciador.com.br/icons/fx.png" group-title="FILMES E SERIES",FX 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14381
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbo.png" group-title="FILMES E SERIES",HBO 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14388
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbo2.png" group-title="FILMES E SERIES",HBO2 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14389
+#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboplus.png" group-title="FILMES E SERIES",HBO PLUS 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14390
+#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbosignature.png" group-title="FILMES E SERIES",HBO SIGNATURE 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14391
+#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbofamily.png" group-title="FILMES E SERIES",HBO FAMILY 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14392
+#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO MUNDI 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboxtreme.png" group-title="FILMES E SERIES",HBO MUNDI 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14393
+#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbopop.png" group-title="FILMES E SERIES",HBO POP 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14394
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboxtreme.png" group-title="FILMES E SERIES",HBO XTREME 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14395
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX 4K" tvg-logo="http://painelgerenciador.com.br/icons/cinemax.png" group-title="FILMES E SERIES",CINEMAX 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14396
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE 4K" tvg-logo="http://painelgerenciador.com.br/icons/space.png" group-title="FILMES E SERIES",SPACE 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14376
+#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TC ACTION 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcaction.png" group-title="FILMES E SERIES",TC ACTION 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14382
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TC PREMIUM 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcpremium.png" group-title="FILMES E SERIES",TC PREMIUM 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14383
+#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TC PIPOCA 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcpipoca.png" group-title="FILMES E SERIES",TC PIPOCA 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14384
+#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TC TOUCH 4K" tvg-logo="http://painelgerenciador.com.br/icons/tctouch.png" group-title="FILMES E SERIES",TC TOUCH 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14385
+#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TC FUN 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcfun.png" group-title="FILMES E SERIES",TC FUN 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14386
+#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TC CULT 4K" tvg-logo="http://painelgerenciador.com.br/icons/tccult.png" group-title="FILMES E SERIES",TC CULT 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14387
+#EXTINF:-1 tvg-id="CANALBRASIL" tvg-name="CANAL BRASIL 4K" tvg-logo="http://painelgerenciador.com.br/icons/canalbrasil.png" group-title="FILMES E SERIES",CANAL BRASIL 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14397
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN 4K" tvg-logo="http://painelgerenciador.com.br/icons/axn.png" group-title="FILMES E SERIES",AXN 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14398
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E 4K" tvg-logo="http://painelgerenciador.com.br/icons/a&e.png" group-title="FILMES E SERIES",A&E 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14408
+#EXTINF:-1 tvg-id="SONY" tvg-name="SONY 4K" tvg-logo="http://painelgerenciador.com.br/icons/sony.png" group-title="FILMES E SERIES",SONY 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14399
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY 4K" tvg-logo="http://painelgerenciador.com.br/icons/syfy.png" group-title="FILMES E SERIES",SYFY 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14400
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX 4K" tvg-logo="http://painelgerenciador.com.br/icons/megapix.png" group-title="FILMES E SERIES",MEGAPIX 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14401
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT 4K" tvg-logo="http://painelgerenciador.com.br/icons/paramount.png" group-title="FILMES E SERIES",PARAMOUNT 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14402
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-name="UNIVERSAL TV 4K" tvg-logo="http://painelgerenciador.com.br/icons/universaltv.png" group-title="FILMES E SERIES",UNIVERSAL TV 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14403
+#EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER CHANNEL 4K" tvg-logo="http://painelgerenciador.com.br/icons/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14404
+#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="COMEDY CENTRAL 4K" tvg-logo="http://painelgerenciador.com.br/icons/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14405
+#EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://painelgerenciador.com.br/icons/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14406
+#EXTINF:-1 tvg-id="PRIMEBOXBRAZIL" tvg-name="PRIME BOXBRASIL 4K" tvg-logo="http://painelgerenciador.com.br/icons/primebox.png" group-title="FILMES E SERIES",PRIME BOXBRASIL 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14407
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV 4K" tvg-logo="http://painelgerenciador.com.br/icons/playtv.png" group-title="FILMES E SERIES",PLAY TV 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14410
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcm.png" group-title="FILMES E SERIES",TCM 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14409
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="NAT GEO 4K" tvg-logo="http://painelgerenciador.com.br/icons/natgeo.png" group-title="DOCUMENTARIOS",NAT GEO 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14427
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHICWILD" tvg-name="NAT GEO WILD 4K" tvg-logo="http://painelgerenciador.com.br/icons/natgeowild.png" group-title="DOCUMENTARIOS",NAT GEO WILD 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14429
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://painelgerenciador.com.br/icons/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14428
+#EXTINF:-1 tvg-id="HISTORY2" tvg-name="H2 4K" tvg-logo="http://painelgerenciador.com.br/icons/h2.png" group-title="DOCUMENTARIOS",H2 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14430
+#EXTINF:-1 tvg-id="HISTORY2" tvg-name="HISTORY 4K" tvg-logo="http://painelgerenciador.com.br/icons/history.png" group-title="DOCUMENTARIOS",HISTORY 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14431
+#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoverychannel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14432
+#EXTINF:-1 tvg-id="LIV" tvg-name="DISCOVERY THEATER 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoverytheater.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14433
+#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoveryturbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14434
+#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="DISCOVERY WORLD 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoveryworld.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14435
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="DISCOVERY SCIENCE 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoverysience.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14436
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="DISCOVERY CIVILIZATION 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoverycivi.png" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14437
+#EXTINF:-1 tvg-id="DISCOVERYHH" tvg-name="DISCOVERY HOME&HEALTH 4K" tvg-logo="http://painelgerenciador.com.br/icons/homehealth.png" group-title="DOCUMENTARIOS",DISCOVERY HOME&HEALTH 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14438
+#EXTINF:-1 tvg-id="LIV" tvg-name="DISCOVERY ID 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoveryid.png" group-title="DOCUMENTARIOS",DISCOVERY ID 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14439
+#EXTINF:-1 tvg-id="FISHTV" tvg-name="FISH TV HD" tvg-logo="http://painelgerenciador.com.br/icons/fishtv.png" group-title="DOCUMENTARIOS",FISH TV HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14440
+#EXTINF:-1 tvg-id="E" tvg-name="E! 4K" tvg-logo="http://painelgerenciador.com.br/icons/e!.png" group-title="VARIEDADES",E! 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14441
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC 4K" tvg-logo="http://painelgerenciador.com.br/icons/tlc.png" group-title="VARIEDADES",TLC 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14442
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT 4K" tvg-logo="http://painelgerenciador.com.br/icons/gnt.png" group-title="VARIEDADES",GNT 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14443
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA 4K" tvg-logo="http://painelgerenciador.com.br/icons/viva.png" group-title="VARIEDADES",VIVA 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14444
+#EXTINF:-1 tvg-id="" tvg-name="TRUE TV 4K" tvg-logo="http://painelgerenciador.com.br/icons/truetv.png" group-title="VARIEDADES",TRUE TV 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14445
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFE TIME 4K" tvg-logo="http://painelgerenciador.com.br/icons/lifetime.png" group-title="VARIEDADES",LIFE TIME 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14446
+#EXTINF:-1 tvg-id="CHEFTV" tvg-name="CHEFTV 4K" tvg-logo="http://painelgerenciador.com.br/icons/cheftv.png" group-title="VARIEDADES",CHEFTV 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14447
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK 4K" tvg-logo="http://painelgerenciador.com.br/icons/foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14448
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS 4K" tvg-logo="http://painelgerenciador.com.br/icons/tbs.png" group-title="VARIEDADES",TBS 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14449
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS 4K" tvg-logo="http://painelgerenciador.com.br/icons/bis.png" group-title="MUSICA&ENTR",BIS 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14423
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 4K" tvg-logo="http://painelgerenciador.com.br/icons/vh1.png" group-title="MUSICA&ENTR",VH1 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14426
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV 4K" tvg-logo="http://painelgerenciador.com.br/icons/mtv.png" group-title="MUSICA&ENTR",MTV 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14425
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW 4K" tvg-logo="http://painelgerenciador.com.br/icons/multishow.png" group-title="MUSICA&ENTR",MULTISHOW 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14424
+#EXTINF:-1 tvg-id="SHOPTIME" tvg-name="SHOPTIME HD" tvg-logo="http://painelgerenciador.com.br/icons/shoptime.png" group-title="VARIEDADES",SHOPTIME HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48564
+#EXTINF:-1 tvg-id="MUSICBOXBRASIL" tvg-name="MUSICBOX BRASIL HD" tvg-logo="http://painelgerenciador.com.br/icons/musicboxbrasil.png" group-title="MUSICA&ENTR",MUSICBOX BRASIL HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48565
+#EXTINF:-1 tvg-id="TVNOVOTEMPO" tvg-name="NOVO TEMPO HD" tvg-logo="http://painelgerenciador.com.br/icons/novotempo.png" group-title="RELIGIOSOS",NOVO TEMPO HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48566
+#EXTINF:-1 tvg-id="PLAYBOY" tvg-name="PLAYBOY 4K" tvg-logo="http://painelgerenciador.com.br/icons/playboy.png" group-title="ADULTO",PLAYBOY 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48931
+#EXTINF:-1 tvg-id="SEXYHOT" tvg-name="SEX HOT 4K" tvg-logo="http://painelgerenciador.com.br/icons/sexhot.png" group-title="ADULTO",SEX HOT 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48932
+#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE 4K" tvg-logo="http://painelgerenciador.com.br/icons/sexprive.png" group-title="ADULTO",SEX PRIVE 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/48933
+#EXTINF:-1 tvg-id="CANCAONOVA" tvg-name="CANCAO NOVA BR HD" tvg-logo="http://painelgerenciador.com.br/icons/cancaonova.png" group-title="RELIGIOSOS",CANCAO NOVA BR HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14972
+#EXTINF:-1 tvg-id="" tvg-name="CAM Zero Point Levi Finland" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cam.png" group-title="CAMERA 24H",CAM Zero Point Levi Finland
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15184
+#EXTINF:-1 tvg-id="" tvg-name="CAM KC Zoo Penguin Cam 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cam.png" group-title="CAMERA 24H",CAM KC Zoo Penguin Cam 4K
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15186
+#EXTINF:-1 tvg-id="" tvg-name="Santuário de Fátima HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/sf.png" group-title="RELIGIOSOS",Santuário de Fátima HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14977
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/tvpaieterno.png" group-title="RELIGIOSOS",TV Pai Eterno
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14981
+#EXTINF:-1 tvg-id="" tvg-name="RS 21 HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/rs21.png" group-title="RELIGIOSOS",RS 21 HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14982
+#EXTINF:-1 tvg-id="" tvg-name="TV Gideões" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/tvgideoes.png" group-title="RELIGIOSOS",TV Gideões
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15026
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/tvevangelizar.png" group-title="RELIGIOSOS",TV Evangelizar
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14980
+#EXTINF:-1 tvg-id="" tvg-name="TV Imaculada Conceição" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/imaculada.png" group-title="RELIGIOSOS",TV Imaculada Conceição
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15027
+#EXTINF:-1 tvg-id="" tvg-name="IPPTV  HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/ipptv.png" group-title="RELIGIOSOS",IPPTV  HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14975
+#EXTINF:-1 tvg-id="" tvg-name="Tv Lourdes HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/tvlourdes.png" group-title="RELIGIOSOS",Tv Lourdes HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14976
+#EXTINF:-1 tvg-id="" tvg-name="ADORAÇÃO AO SANTÍSSIMO SACRAMENTO" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/tvigrejamundial.png" group-title="RELIGIOSOS",ADORAÇÃO AO SANTÍSSIMO SACRAMENTO
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14974
+#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/escola.png" group-title="ABERTOS",TV ESCOLA HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14984
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/camara.png" group-title="NOTÍCIAS",TV CAMARA HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14985
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA SP" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/camarasp.png" group-title="NOTÍCIAS",TV CAMARA SP
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14986
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 29" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/canal29.png" group-title="ABERTOS",CANAL 29
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14998
+#EXTINF:-1 tvg-id="" tvg-name="TV MAX" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/tvmax.png" group-title="MUSICA&ENTR",TV MAX
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/14999
+#EXTINF:-1 tvg-id="" tvg-name="TV Aracati HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/tvaracatii.png" group-title="ABERTOS",TV Aracati HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15001
+#EXTINF:-1 tvg-id="" tvg-name="TV Manchete" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/tvmanchete.png" group-title="INFANTIS",TV Manchete
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15003
+#EXTINF:-1 tvg-id="" tvg-name="CENTRAL TV" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/centraltv.png" group-title="ABERTOS",CENTRAL TV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15014
+#EXTINF:-1 tvg-id="" tvg-name="LONDRINA TV" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/londrinatv.png" group-title="ABERTOS",LONDRINA TV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15015
+#EXTINF:-1 tvg-id="" tvg-name="TVE BAHIA HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/tvbahia.png" group-title="ABERTOS",TVE BAHIA HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15016
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/goseplcartoon.png" group-title="INFANTIS",GOSPEL CARTOON HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15018
+#EXTINF:-1 tvg-id="" tvg-name="TV Diário Do Sertão" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/tvdiariodoseratao.png" group-title="ABERTOS",TV Diário Do Sertão
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15019
+#EXTINF:-1 tvg-id="" tvg-name="Tv Metropolitana Rio HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/metropolitanario.png" group-title="ABERTOS",Tv Metropolitana Rio HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15021
+#EXTINF:-1 tvg-id="" tvg-name="TV Paraná Turismo" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/tvparana.png" group-title="ABERTOS",TV Paraná Turismo
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15025
+#EXTINF:-1 tvg-id="" tvg-name="Tv Germana HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/gentv.png" group-title="INFANTIS",Tv Germana HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15029
+#EXTINF:-1 tvg-id="" tvg-name="Nossa Tv (TV Cultura RN)" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/nossatv.png" group-title="RELIGIOSOS",Nossa Tv (TV Cultura RN)
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15030
+#EXTINF:-1 tvg-id="" tvg-name="TVU - TV Urbana HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/urbana.png" group-title="ABERTOS",TVU - TV Urbana HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15031
+#EXTINF:-1 tvg-id="" tvg-name="TV Mar HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/tvmar.png" group-title="VARIEDADES",TV Mar HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15032
+#EXTINF:-1 tvg-id="" tvg-name="TV Guará (Record News)" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tvguara.png" group-title="MAIS CANAIS",TV Guará (Record News)
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15042
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO TV HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/bolivia/mundotv.png" group-title="VARIEDADES",MUNDO TV HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15043
+#EXTINF:-1 tvg-id="" tvg-name="TV Comunidade Restauração" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/bolivia/tvcomunidaderest.png" group-title="RELIGIOSOS",TV Comunidade Restauração
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15044
+#EXTINF:-1 tvg-id="" tvg-name="Ricos TV" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/bolivia/ricostv.png" group-title="VARIEDADES",Ricos TV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15045
+#EXTINF:-1 tvg-id="" tvg-name="Tv Destaque Nacional" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/bolivia/tvdestaquenacional.png" group-title="VARIEDADES",Tv Destaque Nacional
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15046
+#EXTINF:-1 tvg-id="" tvg-name="TV UFSC" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/bolivia/tvufsc.png" group-title="VARIEDADES",TV UFSC
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15047
+#EXTINF:-1 tvg-id="" tvg-name="CANAL TV RIO" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/bolivia/canaltvrio.png" group-title="VARIEDADES",CANAL TV RIO
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15048
+#EXTINF:-1 tvg-id="" tvg-name="Tv Futuro (Cultura SP)" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/bolivia/tvfuturo.png" group-title="ABERTOS",Tv Futuro (Cultura SP)
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15050
+#EXTINF:-1 tvg-id="" tvg-name="XTOTV Enlace" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/xtotv.png" group-title="[lang=Bolivia] Bolivia",XTOTV Enlace
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15053
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD MG HD" tvg-logo="http://painelgerenciador.com.br/icons/record.png" group-title="REDE RECORD",RECORD MG HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15054
+#EXTINF:-1 tvg-id="" tvg-name="JP NTV NEWS 24 HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/bolivia/jpntvnews.png" group-title="[lang=Japan]Japan",JP NTV NEWS 24 HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15055
+#EXTINF:-1 tvg-id="" tvg-name="JP ANN NEWS HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/bolivia/jpannnews.png" group-title="[lang=Japan]Japan",JP ANN NEWS HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15056
+#EXTINF:-1 tvg-id="" tvg-name="JP FUJI TV" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/bolivia/jpfujitv.png" group-title="[lang=Japan]Japan",JP FUJI TV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15058
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 FOZ DO IGUACU" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/canal10foz.png" group-title="MAIS CANAIS",CANAL 10 FOZ DO IGUACU
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15103
+#EXTINF:-1 tvg-id="" tvg-name="JP TBS" tvg-logo="http://painelgerenciador.com.br/icons/tbs.png" group-title="[lang=Japan]Japan",JP TBS
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15059
+#EXTINF:-1 tvg-id="" tvg-name="JP JAPANET CHANEL DX" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/bolivia/jpjapanetchaneldx.png" group-title="[lang=Japan]Japan",JP JAPANET CHANEL DX
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15060
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA 2 HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/camara.png" group-title="NOTÍCIAS",TV CAMARA 2 HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15066
+#EXTINF:-1 tvg-id="" tvg-name="SESC TV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sesctv.png" group-title="MAIS CANAIS",SESC TV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15067
+#EXTINF:-1 tvg-id="" tvg-name="3ª VIA TV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/3viatv.png" group-title="MAIS CANAIS",3ª VIA TV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15068
+#EXTINF:-1 tvg-id="" tvg-name="AGRO Brazil TV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/agrobrtv.png" group-title="MAIS CANAIS",AGRO Brazil TV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15069
+#EXTINF:-1 tvg-id="" tvg-name="98 Live (Belo Horizonte)" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/98live.png" group-title="MAIS CANAIS",98 Live (Belo Horizonte)
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15070
+#EXTINF:-1 tvg-id="" tvg-name="ALLTV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/alltv.png" group-title="MAIS CANAIS",ALLTV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15071
+#EXTINF:-1 tvg-id="" tvg-name="Canal 25 Jundiaí" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/canal25jundai.png" group-title="MAIS CANAIS",Canal 25 Jundiaí
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15072
+#EXTINF:-1 tvg-id="" tvg-name="Canal Assembleia Bahia (TV ALBA)" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tvalba.png" group-title="MAIS CANAIS",Canal Assembleia Bahia (TV ALBA)
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15073
+#EXTINF:-1 tvg-id="" tvg-name="Canal Saúde" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/canalsaude.png" group-title="MAIS CANAIS",Canal Saúde
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15074
+#EXTINF:-1 tvg-id="" tvg-name="CBN SAO PAULO" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cbnsp.png" group-title="MAIS CANAIS",CBN SAO PAULO
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15075
+#EXTINF:-1 tvg-id="" tvg-name="COM Brasil " tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/combrasil.png" group-title="MAIS CANAIS",COM Brasil 
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15077
+#EXTINF:-1 tvg-id="" tvg-name=" Classique TV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/classiquetv.png" group-title="MAIS CANAIS", Classique TV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15078
+#EXTINF:-1 tvg-id="" tvg-name="TV CARIOCA.NET" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tvcarioca.png" group-title="MAIS CANAIS",TV CARIOCA.NET
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15079
+#EXTINF:-1 tvg-id="" tvg-name="Fonte TV" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/bolivia/fonte.png" group-title="RELIGIOSOS",Fonte TV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15080
+#EXTINF:-1 tvg-id="" tvg-name="Nova Era TV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/novoeratv.png" group-title="MAIS CANAIS",Nova Era TV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15081
+#EXTINF:-1 tvg-id="" tvg-name="Plenitude TV" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/bolivia/plenitudetv.png" group-title="RELIGIOSOS",Plenitude TV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15082
+#EXTINF:-1 tvg-id="" tvg-name="Rede Boas Novas" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redeboasnovas.png" group-title="MAIS CANAIS",Rede Boas Novas
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15083
+#EXTINF:-1 tvg-id="" tvg-name="RBC HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/rbc.png" group-title="MAIS CANAIS",RBC HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15084
+#EXTINF:-1 tvg-id="" tvg-name="Rede Litoral News" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redelitoralnews.png" group-title="MAIS CANAIS",Rede Litoral News
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15085
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV SUL" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetvsul.png" group-title="MAIS CANAIS",Rede TV SUL
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15086
+#EXTINF:-1 tvg-id="" tvg-name="TV Grande Natal HDTV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tvgrandenatal.png" group-title="MAIS CANAIS",TV Grande Natal HDTV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15087
+#EXTINF:-1 tvg-id="" tvg-name="TV Jornal do Nordeste" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/bolivia/tvjornaldonordeste.png" group-title="FILMES E SERIES",TV Jornal do Nordeste
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15088
+#EXTINF:-1 tvg-id="" tvg-name="TV CRISTO HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/bolivia/tvcristo.png" group-title="RELIGIOSOS",TV CRISTO HD
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15089
+#EXTINF:-1 tvg-id="" tvg-name="TV Candides" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tvcandides.png" group-title="MAIS CANAIS",TV Candides
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15090
+#EXTINF:-1 tvg-id="" tvg-name="Travel TV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/travelingotv.png" group-title="MAIS CANAIS",Travel TV
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15093
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV União Fortaleza" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redeuniao.png" group-title="MAIS CANAIS",REDE TV União Fortaleza
+http://massud.homelinux.com:80/AxJQOCX86FdIaaPH/Zbuq427vfD4AXgEb/15094
