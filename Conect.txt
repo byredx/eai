@@ -1,1 +1,1 @@
-{"epg": "http://epg.myapp.st/epg.xml", "list":"http://dns.cdnctv.com.br:80/get.php?username=ATIVARECARGAS&password=Dino08112023&type=m3u_plus&output=ts","success": true,"max_connections":"80", "validity": "ilimitado" }
+{"epg": "http://epg.myapp.st/epg.xml", "list":"http://main.xplus2-main.xyz:2082/get.php?username=xplus-2-QniV8LZeMn&password=0itsF2puuE&type=m3u_plus","success": true,"max_connections":"80", "validity": "ilimitado" }
